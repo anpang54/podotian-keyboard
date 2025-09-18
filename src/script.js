@@ -2,8 +2,8 @@
 
 // put version
 
-const version = "0.1.1";
-const versionDate = "17 Jun 2025";
+const version = "0.1.2";
+const versionDate = "18 Sep 2025";
 
 document.getElementById("version").innerText = version;
 document.getElementById("versiondate").innerText = versionDate;
@@ -13,15 +13,17 @@ document.getElementById("versiondate").innerText = versionDate;
 
 const buttonData = {
     "a-grave": ["À", "à"],
+    "o-grave": ["Ò", "ò"],
     "n-breve": ["N̆", "n̆"],
     "a-acute": ["Á", "á"],
     "a-caron": ["Ǎ", "ǎ"],
     "e-acute": ["É", "é"],
     "i-acute": ["Í", "í"],
     "o-acute": ["Ó", "ó"],
+    "o-caron": ["Ǒ", "ǒ"],
     "u-acute": ["Ú", "ú"]
 }
-const breakAt = 1;
+const breakAt = 2;
 
 
 // put buttons
