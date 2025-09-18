@@ -1,5 +1,5 @@
 
-![](https://img.shields.io/badge/stable-0.1.0-f65) ![](https://img.shields.io/github/license/anpang54/podotian-keyboard)
+![](https://img.shields.io/badge/stable-0.1.1-f65) ![](https://img.shields.io/github/license/anpang54/podotian-keyboard)
 
 # Podotian keyboard
 
